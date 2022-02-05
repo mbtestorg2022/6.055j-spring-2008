@@ -4,17 +4,159 @@ title: Calendar
 uid: 6ec45c68-fb16-bfc4-347b-5b03e15fe0d6
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Introduction:** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 1 | Introduction and managing complexity  {{< br >}}  {{< br >}}Managing complexity | &nbsp; |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Managing complexity:** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 2-5 | Heterogeneous hierarchies | Homework 1 due in SES #5 |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Removing spurious complexity:** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 6-14 | Proportional reasoning | Homework 2 due in SES #11 |
-| 15-19 | Conservation/box models | Homework 3 due in SES #16 |
-| 20-29 | Dimensions and afterword | Homework 4 due in SES #22 and Homework 5 due in SES #28 |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Discarding actual complexity:** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 30-34 | Special cases | &nbsp; |
-| 35-36 | Discretization | Homework 6 due in SES #36 |
-| 37-38 | Spring models |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Introduction:**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and managing complexity  
+  
+Managing complexity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Managing complexity:**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-5
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous hierarchies
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due in SES #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Removing spurious complexity:**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-14
+{{< tdclose >}}
+{{< tdopen >}}
+Proportional reasoning
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due in SES #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-19
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation/box models
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due in SES #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-29
+{{< tdclose >}}
+{{< tdopen >}}
+Dimensions and afterword
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due in SES #22 and Homework 5 due in SES #28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Discarding actual complexity:**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30-34
+{{< tdclose >}}
+{{< tdopen >}}
+Special cases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35-36
+{{< tdclose >}}
+{{< tdopen >}}
+Discretization
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due in SES #36
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37-38
+{{< tdclose >}}
+{{< tdopen >}}
+Spring models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
