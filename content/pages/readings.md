@@ -18,7 +18,7 @@ Required Text
 
 The notes used in this course have now been enhanced and published in book form by The MIT Press. The complete book is available as a free download from the OCW website:
 
-*   _[The Art of Insight in Science and Engineering: Mastering Complexity](/resources/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014)_
+*   _[The Art of Insight in Science and Engineering: Mastering Complexity](/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014)_
 
 The book is also available in paperback for purchase:
 
